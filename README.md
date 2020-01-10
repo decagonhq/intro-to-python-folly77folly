@@ -48,3 +48,4 @@ B.
 Class | Mutable  | Immutable
 ------------ | -------------| -------------
 bool | No|Yes
+int|No|Yes
