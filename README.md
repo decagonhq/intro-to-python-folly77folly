@@ -43,3 +43,8 @@ DIP-Dependency Inversion Principle this pronciple states that high level classes
 Example
 A. A Remote control battery should not depend on the type of battery to function
 B. 
+
+##Data types categorization
+Class | Mutable  | Immutable
+------------ | -------------| -------------
+bool | No|Yes
