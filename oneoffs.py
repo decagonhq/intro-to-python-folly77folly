@@ -11,10 +11,11 @@ def divide(numb1,numb2,floor=True):
 
 
 def last_song(*song_title,**date_of_release):
-  pass
+    print(song_title)
+    print(date_of_release)
 
 
 
-songs_title=['a','b','c','d']
+songs_title=['wakeup','takehome']
 date_of_release={'year': "2020", 'month': "01", 'day': "01"}
-last_song(songs_title)
+last_song(songs_title,date_of_release)
