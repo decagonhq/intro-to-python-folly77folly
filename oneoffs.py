@@ -13,6 +13,7 @@ def divide(numb1,numb2,floor=True):
         else:
             return (first_Number/second_Number)        
     except TypeError as e:
+
         return('Only Numbers are Allowed')
     except Exception as e:
         return('Something is Wrong')

@@ -42,10 +42,11 @@ B. A Vehicle Class Should not combine too many methods such as start engine,play
 DIP-Dependency Inversion Principle this pronciple states that high level classes or Modules should not depend on low level classes or module they should both depend on abstraction and abstraction should not depend on details details should depend on abstraction.
 Example
 A. A Remote control battery should not depend on the type of battery to function
-B. 
+B.
 
-##Data types categorization
-Class | Mutable  | Immutable
------------- | -------------| -------------
-bool | No|Yes
-int|No|Yes
+## Data Type Categorization
+
+|Data Type | Mutable  | Immutable
+|:------------ |:-------------|:-------------|
+|bool | No|Yes
+|int|No|Yes
