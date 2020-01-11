@@ -44,7 +44,7 @@ Example
 A. A Remote control battery should not depend on the type of battery to function
 B.
 
-##Data Type Categorization
+## Data Type Categorization
 
 |Data Type | Mutable  | Immutable
 |:------------ |:-------------|:-------------|
