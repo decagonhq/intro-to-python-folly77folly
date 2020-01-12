@@ -48,5 +48,16 @@ B.
 
 |Data Type | Mutable  | Immutable
 |:------------ |:-------------|:-------------|
-|bool | No|Yes
-|int|No|Yes
+|Boolean | |Yes
+|Integer||Yes
+|Float||Yes
+|Unicode||Yes
+|Lists|Yes|
+|String||Yes
+|Dictionary|Yes|
+|Frozen Set||Yes
+|Tuples||Yes
+|Set|Yes|
+|Custom Classes|Yes|
+|Complex||Yes
+|Byte||Yes
